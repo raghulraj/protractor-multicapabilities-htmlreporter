@@ -1,2 +1,2 @@
 var reporter = require('protractor-multicapabilities-htmlreporter');
-reporter.generateHtmlReport('./ptor.json','Automation','./report.html');
+reporter.generateHtmlReport('./ptor-out.json','Automation','./report.html');
