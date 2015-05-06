@@ -7,7 +7,7 @@ var hasOwnProperty = Object.prototype.hasOwnProperty;
 
 	exports.generateHtmlReport = function (inputFile,title,outputFile) {
         	
-	var sortedJson = require((path.join(__dirname, inputFile)));
+	var sortedJson = require((path.join(__dirname,'../../'+inputFile)));
             var automationHeader = title;
             sortOn(sortedJson, 'description', false, false);
             var result = generateReport(sortedJson,automationHeader);
