@@ -1,0 +1,52 @@
+[
+  {
+    "description": "MS1_Search|Samsung Galaxy Nexus|4.3|",
+    "assertions": [],
+    "duration": 10136
+  },
+  {
+    "description": "MS1_Home|Samsung Galaxy Nexus|4.3|",
+    "assertions": [],
+    "duration": 7832
+  },
+  {
+    "description": "MS1_Menu|Samsung Galaxy Nexus|4.3|",
+    "assertions": [],
+    "duration": 14681
+  },
+  {
+    "description": "MS1_Category_Page|Samsung Galaxy Nexus|4.3|",
+    "assertions": [],
+    "duration": 5572
+  },
+  {
+    "description": "MS1_Product_Page|Samsung Galaxy Nexus|4.3|",
+    "assertions": [],
+    "duration": 6980
+  },
+  {
+    "description": "MS1_Search|iPhone|8.0|",
+    "assertions": [],
+    "duration": 66880
+  },
+  {
+    "description": "MS1_Home|iPhone|8.0|",
+    "assertions": [],
+    "duration": 66039
+  },
+  {
+    "description": "MS1_Menu|iPhone|8.0|",
+    "assertions": [],
+    "duration": 11835
+  },
+  {
+    "description": "MS1_Category_Page|iPhone|8.0|",
+    "assertions": [],
+    "duration": 4544
+  },
+  {
+    "description": "MS1_Product_Page|iPhone|8.0|",
+    "assertions": [],
+    "duration": 5898
+  }
+]
