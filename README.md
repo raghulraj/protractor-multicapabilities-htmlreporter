@@ -20,10 +20,12 @@ reporter.generateHtmlReport('./ptor-out.json','Automation Results','./report.htm
 ## Configuration
 
 ```
-Make sure test description follows the below format and json output file contains description in the same format.
-You can pass browsername and version from config to test file using getProcessedConfig() in onPrepare method.
+Make sure test description follows the below format and json output file contains description 
+in the same format.
 
-In test file:
+Sample test file below, this below example shows hardcoded browser values, you can dynamically pass 
+browsername and version using getProcessedConfig() in onPrepare method.
+
 ...
 it("Product_Page|iPhone|8.0" ,function () { 
 ...
