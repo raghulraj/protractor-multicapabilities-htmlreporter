@@ -20,6 +20,10 @@ reporter.generateHtmlReport('./ptor-out.json','Automation Results','./report.htm
 ## Configuration
 
 ```
+Add the below config for generating output for results in json format
+
+resultJsonOutputFile: 'ptor-out.json'
+
 Make sure test description follows the below format and json output file contains description 
 in the same format.
 
