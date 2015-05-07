@@ -1,6 +1,7 @@
 # protractor-multicapabilities-htmlreporter
 
 A utility to generate HTML report for protractor  multicapabilities automation results.
+Works on latest Protractor & Jasmine2.0
 
 ## Installation
 
