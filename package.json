@@ -1,6 +1,6 @@
 {
   "name": "protractor-multicapabilities-htmlreporter",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Utility to generate html report for multicapabilities automation results",
   "main": "reporter.js",
   "repository": {
@@ -12,7 +12,8 @@
     "protractor",
     "jasmine",
     "ysb",
-    "reporter"
+    "reporter",
+    "protractor html report"
   ],
   "author": {
     "name": "Raghul Raj V",
