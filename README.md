@@ -54,7 +54,7 @@ it("Product_Page|iPhone|8.0" ,function () {
 ## Output file
 
 ```
-Refer report.html file
+![Alt text](/examples/html-report.png?raw=true "Multicapabilities Html Report")
 
 ```
 
