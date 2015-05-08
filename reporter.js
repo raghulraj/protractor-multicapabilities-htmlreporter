@@ -206,7 +206,7 @@ var hasOwnProperty = Object.prototype.hasOwnProperty;
 
 	function filewrite(result,outputFile){
         result += "<style>";
-        result += ".header{text-align:center;font-size: 26px;margin-bottom: 10px;}";
+        result += ".header{font-size: 26px;margin-bottom: 10px;margin-left: 150px; text-decoration: underline;}";
         result += ".brk{background-color:burlywood;}";
         result += ".brk1{background-color:coral}"
         result += ".brk3{background-color:darkgoldenrod}";
