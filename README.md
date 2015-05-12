@@ -22,7 +22,7 @@ reporter.generateHtmlReport('./ptor-out.json','Automation Results','./report.htm
 
 ```
 
-## Configuration
+## Configurations
 
 ```
 Add the below config for generating output for results in json format
@@ -44,12 +44,12 @@ it("Product_Page|iPhone|8.0" ,function () {
 ```
 [
     {
-        "description": "Category_Page|iPhone|8.0|",
+        "description": "Category_Page|iPhone|8.0",
         "assertions": [],
         "duration": 4544
     },
     {
-        "description": "Product_Page|iPhone|8.0|",
+        "description": "Product_Page|iPhone|8.0",
         "assertions": [],
         "duration": 5898
     }
@@ -65,3 +65,4 @@ it("Product_Page|iPhone|8.0" ,function () {
 * 0.0.2 Cleanup and refactoring
 * 0.0.3 Added image for html reporter
 * 0.0.4 Updated README file
+* 0.0.5 Updated Example file

@@ -1,6 +1,6 @@
 {
   "name": "protractor-multicapabilities-htmlreporter",
-  "version": "0.0.2",
+  "version": "0.0.5",
   "description": "Utility to generate html report for multicapabilities automation results",
   "main": "reporter.js",
   "repository": {
